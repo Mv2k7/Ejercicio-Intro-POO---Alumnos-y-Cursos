@@ -46,7 +46,7 @@ public class Alumno {
     public String toString() {
         return "Alumno{" +
                 "matricula=" + numeroMatricula +
-                ", nombre=" + nombre + " " + apellido + "'" +
+                ", nombre='" + nombre + " " + apellido + "'" +
                 ", carrera='" + carrera + "'" +
                 ", promedio=" + promedio +
                 ", ingreso=" + Ingreso + "}";
