@@ -6,7 +6,7 @@ public class Alumno {
     private double promedio;
     private int Ingreso;
 
-    public Alumno(String nombre, String apellido, int numeroMatricula, String carrera) {
+    public Alumno(String nombre, String apellido, int numeroMatricula, String carrera, double promedio, int Ingreso) {
         this.nombre             = nombre;
         this.apellido           = apellido;
         this.numeroMatricula    = numeroMatricula;
